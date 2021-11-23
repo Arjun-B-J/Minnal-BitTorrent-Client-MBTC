@@ -1,2 +1,2 @@
 # Minnal-BitTorrent-Client-MBTC
-An attempt to build a bittorrent client using python :)
+An attempt to build a BitTorrent client using python :)
